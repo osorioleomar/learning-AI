@@ -1,4 +1,4 @@
-2CureX ApS
+﻿2CureX ApS
 Birkevej 37, DK-3460 Birkerød 
 Årsrapport for 1. januar - 31.
 december 2016
@@ -20,7 +20,7 @@ Ole Thastrup
 Dirigent
 Chairman
 
-Indholdsfortegnelse
+Indholdsfortegnelse
 Contents
 
 Påtegninger
@@ -65,7 +65,7 @@ Page
 
 10
 
-Den uafhængige revisors revisionspåtegning
+Den uafhængige revisors revisionspåtegning
 Independent Auditor’s Report
 
 Til kapitalejerne i 2CureX ApS
@@ -151,7 +151,7 @@ determines is necessary to enable the preparation
 
 2
 
-Den uafhængige revisors revisionspåtegning
+Den uafhængige revisors revisionspåtegning
 Independent Auditor’s Report
 
 sentlig fejlinformation, uanset om denne skyldes be-
@@ -244,4 +244,3 @@ audit evidence that is sufficient and appropriate
 
 3
 
-
